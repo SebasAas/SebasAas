@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/sebastian-soplan/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br />
 <p>Welcome to my github! </br> I'm Sebastian, actual Front end developer from <img src="https://image.flaticon.com/icons/svg/197/197573.svg" width="13"/> <b>Buenos Aires, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Rio de Janeiro, Brasil</b>. </p>
 
 <h3>Languages and Tools:</h3>
